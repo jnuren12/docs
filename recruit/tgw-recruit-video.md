@@ -1,14 +1,18 @@
 # 暨南人网络联盟 招新视频文案 #
 
+## 部门头像 ##
+
+![logo](https://github.com/jnuren12/docs/raw/master/assets/jnurenlogo.jpg)
+
 ## 朋友圈动态 ##
 
 - `暨妹妹粉丝节`
     + 文字部分
     + 图片部分
 
-![jmmfanfest](https://github.com/jnuren12/docs/raw/master/recruit/assets/fanfest.JPG)
+![jmmfanfest](https://github.com/jnuren12/docs/raw/master/assets/fanfest.JPG)
 
-![jmmfanfest1](https://github.com/jnuren12/docs/raw/master/recruit/assets/fanfest1.JPG)
+![jmmfanfest1](https://github.com/jnuren12/docs/raw/master/assets/fanfest1.JPG)
 
 - `NACO`, `Network Alliance Conference`, `网联技术分享会`
     + 文字部分
