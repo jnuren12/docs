@@ -6,9 +6,9 @@
     + 文字部分
     + 图片部分
 
-![jmmfanfest](assets/fanfest.jpg)
+![jmmfanfest](https://github.com/jnuren12/docs/raw/master/recruit/assets/fanfest.JPG)
 
-![jmmfanfest1](assets/fanfest1.jpg)
+![jmmfanfest1](https://github.com/jnuren12/docs/raw/master/recruit/assets/fanfest1.JPG)
 
 - `NACO`, `Network Alliance Conference`, `网联技术分享会`
     + 文字部分
