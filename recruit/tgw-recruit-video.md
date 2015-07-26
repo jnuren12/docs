@@ -5,6 +5,11 @@
 - `暨妹妹粉丝节`
     + 文字部分
     + 图片部分
+
+![jmmfanfest](assets/fanfest.jpg)
+
+![jmmfanfest1](assets/fanfest1.jpg)
+
 - `NACO`, `Network Alliance Conference`, `网联技术分享会`
     + 文字部分
         + 流动的知识, 最新的技术, 免费的饮料, 最大的热情! 属于暨南人的技术沙龙, 分享你我的知识与技术!
