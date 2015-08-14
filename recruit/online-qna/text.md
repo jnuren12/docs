@@ -164,5 +164,5 @@ your_name = input("输入你的名字, 加入我们吧!")
 - 遵循 `s5` 网页幻灯片标准
 - 使用 `python-docutils` 模块 `rst2s5` 工具输出幻灯片
 - 使用 `Git` 本地管理版本
-- 发布至 [GitCafe](https://gitcafe.com/) 进行托管, `gitcafe-pages` 服务渲染网页
-- 转移至 [GitHub](https://github.com/) 后重新修订内容, 使用 `gh-pages` 服务渲染网页
+- 发布至 [GitCafe](https://gitcafe.com/anqurvanillapy/online-qna) 进行托管, `gitcafe-pages` 服务渲染网页
+- 转移至 [GitHub](https://github.com/jnuren12/docs/tree/master/recruit/online-qna) 后重新修订内容, 使用 `gh-pages` 服务渲染网页
