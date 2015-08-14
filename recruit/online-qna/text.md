@@ -24,7 +24,7 @@ your_name = input("输入你的名字, 加入我们吧!")
 对于拥抱技术的你
 ----------------
 
-- 学 C/C++/Java 才有出路?!
+- 学 `C`/`C++`/`Java` 才有出路?!
 - 软件等于算法与数据结构的结合?!
 - 开发APP仅局限于手机应用?!
 - 不不不, 是时候解放你的大脑了!!
@@ -70,29 +70,29 @@ your_name = input("输入你的名字, 加入我们吧!")
 ---------
 
 - 网页前端界面设计, 即"双眼看得到的部分"
-    + HTML/CSS开发, HTML5/CSS3新标准下更便捷的工作
-    + Bootstrap等前端框架, 分分钟搞定漂亮的界面
+    + `HTML`/`CSS` 开发, `HTML5`/`CSS3` 新标准下更便捷的工作
+    + `Bootstrap` 等前端框架, 分分钟搞定漂亮的界面
 - 网页前端动态开发, 即"那些看得到的部分的动作"
-    + JavaScript开发, 强大的jQuery库, 更便捷的ES5, ES6新标准
+    + `JavaScript` 开发, 强大的 `jQuery` 库, 更便捷的 `ES5`, `ES6` 新标准
 - 网站后台开发, 即"我该怎么满足用户的请求"
-    + 各大类Python框架, 轻松的维护方式
-    + PHP大法, 淳朴的开发方式
+    + 各大类 `Python` 框架, 轻松的维护方式
+    + `PHP` 大法, 淳朴的开发方式
 
 还有,
 -----
 
 - 网站数据库开发, 即"我该怎么保存用户的信息"
-    + MySQL, "没压岁钱了", 哦不开个小玩笑:)
+    + `MySQL`, "没压岁钱了", 哦不开个小玩笑:)
 - 服务器搭建, 即"网站该放在哪儿"
-    + Apache, Nginx, 和舍友用自己做的网站聊天!
+    + `Apache`, `Nginx`, 和舍友用自己做的网站聊天!
 
 看着好头大!
 -----------
 
 - 当然, 不只有网络技术
-    + PhotoShop, 不解释嘻嘻
-    + Premiere, AfterEffects, 视频制作!
-    + Markdown, reStructuredText, 高效文档操作!
+    + `PhotoShop`, 不解释嘻嘻
+    + `Premiere`, `AfterEffects`, 视频制作!
+    + `Markdown`, `reStructuredText`, 高效文档操作!
 
 文档操作是什么鬼...
 -------------------
@@ -112,11 +112,11 @@ your_name = input("输入你的名字, 加入我们吧!")
 --------
 
 - 网联的合作对象有,
-    + 南校区与本部的 网络技术研讨会, 即 网研
+    + 南校区与本部的 `网络技术研讨会`, 即 `网研`
 - 网联计划的合作对象有,
-    + 珠海校区的, JDC/暨大开发者社区
-    + 珠海校区的, 计算机协会
-    + 珠海市内的, GDG Zhuhai/珠海谷歌开发者社区
+    + 珠海校区的, `JDC/暨大开发者社区`
+    + 珠海校区的, `计算机协会`
+    + 珠海市内的, [GDG Zhuhai/珠海谷歌开发者社区](http://blog.zhgdg.org/)
 
 加入我们
 --------
@@ -130,7 +130,7 @@ your_name = input("输入你的名字, 加入我们吧!")
 - 俺去儿, 网联CEO (正部长)
     + 微信号: anqurmoss
     + QQ: 952252530
-    + 邮箱: anqurvanillapy@gmail.com
+    + 邮箱: [anqurvanillapy@gmail.com](mailto:anqurvanillapy@gmail.com)
 - 舅舅, 网联CEO助理
     + 微信号: qiaoziming1027
     + QQ: 765202433
@@ -161,7 +161,8 @@ your_name = input("输入你的名字, 加入我们吧!")
 关于
 ----
 
-- 遵循 s5 网页幻灯片标准
-- 使用 python-docutils 模块 rst2s5 工具输出幻灯片
-- 使用 Git 本地管理版本
-- 发布至 GitCafe.com 进行托管, gitcafe-pages 服务渲染网页
+- 遵循 `s5` 网页幻灯片标准
+- 使用 `python-docutils` 模块 `rst2s5` 工具输出幻灯片
+- 使用 `Git` 本地管理版本
+- 发布至 [GitCafe](https://gitcafe.com/) 进行托管, `gitcafe-pages` 服务渲染网页
+- 转移至 [GitHub](https://github.com/) 后重新修订内容, 使用 `gh-pages` 服务渲染网页

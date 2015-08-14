@@ -1,4 +1,7 @@
 .. include:: <s5defs.txt>
+.. _GDG Zhuhai: http://blog.zhgdg.org/
+.. _GitCafe: https://gitcafe.com/anqurvanillapy/online-qna
+.. _GitHub: https://github.com/jnuren12/docs/tree/master/recruit/online-qna
 
 ==============
 暨南人网络联盟
@@ -89,13 +92,13 @@
 .. class:: incremental tiny
 
     * 网页前端界面设计, 即"双眼看得到的部分"
-        * HTML/CSS开发, HTML5/CSS3新标准下更便捷的工作
-        * Bootstrap等前端框架, 分分钟搞定漂亮的界面
+        * HTML/CSS 开发, HTML5/CSS3 新标准下更便捷的工作
+        * Bootstrap 等前端框架, 分分钟搞定漂亮的界面
     * 网页前端动态开发, 即"那些看得到的部分的动作"
-        * JavaScript开发, 强大的jQuery库, 更便捷的ES5, ES6新标准
+        * JavaScript 开发, 强大的 jQuery 库, 更便捷的 ES5, ES6 新标准
     * 网站后台开发, 即"我该怎么满足用户的请求"
-        * 各大类Python框架, 轻松的维护方式
-        * PHP大法, 淳朴的开发方式
+        * 各大类 Python 框架, 轻松的维护方式
+        * PHP 大法, 淳朴的开发方式
 
 还有,
 =====
@@ -156,7 +159,7 @@
 
     * 珠海校区的, JDC/暨大开发者社区
     * 珠海校区的, 计算机协会
-    * 珠海市内的, GDG Zhuhai/珠海谷歌开发者社区
+    * 珠海市内的, `GDG Zhuhai`_/珠海谷歌开发者社区
 
 加入我们
 ========
@@ -218,9 +221,10 @@
 关于
 ====
 
-.. class:: incremental
+.. class:: incremental small
 
     * 遵循 s5 网页幻灯片标准
     * 使用 python-docutils 模块 rst2s5 工具输出幻灯片
     * 使用 Git 本地管理版本
-    * 发布至 GitCafe.com 进行托管, gitcafe-pages 服务渲染网页
+    * 发布至 `GitCafe`_ 进行托管, gitcafe-pages 服务渲染网页
+    * 转移至 `GitHub`_ 后重新修订内容, 使用 gh-pages 服务渲染网页
