@@ -1,2 +1,4 @@
 # gedit cache file
 *.md~
+*.dot~
+*.rst~
