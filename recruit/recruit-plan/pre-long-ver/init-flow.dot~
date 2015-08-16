@@ -1,0 +1,2 @@
+digraph init-flow {
+    策编部 -> 市场部;

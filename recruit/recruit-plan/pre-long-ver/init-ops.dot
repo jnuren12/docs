@@ -1,0 +1,40 @@
+digraph initflow {
+
+    rankdir = LR;
+    label = "NAOps - Network Alliance Operations"
+
+    subgraph cluster_edit {
+        node [style=filled, color=white];
+        style = filled;
+        color = lightgrey;
+        文档培训 -> 资讯收集 -> 活动策划;
+        label = "策编部";
+    }
+
+    subgraph cluster_market {
+        node [style=filled];
+        洽谈合作 -> 收支预算 -> 人员调动;
+        color = red;
+        label = "市场部";
+    }
+
+    subgraph cluster_tech {
+        node [style=filled];
+        技术培训 -> 宣传制作;
+        color = blue;
+        label = "技术部";
+    }
+
+    Start -> 招新;
+    招新 -> 文档培训;
+    招新 -> 洽谈合作;
+    招新 -> 技术培训;
+
+    收支预算 -> 活动策划;
+    宣传制作 -> 人员调动;
+    活动策划 -> 人员调动;
+
+    人员调动 -> 活动举办;
+    活动策划 -> 活动举办;
+    宣传制作 -> 活动举办;
+}

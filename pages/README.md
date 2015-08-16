@@ -2,5 +2,5 @@ docs-pages
 ==========
 
 - The `gh-pages` branch includes
-    + Slides of presentation for different situations
+    + Presentation slides for different events
     + Code style guide, regulations, etc.
