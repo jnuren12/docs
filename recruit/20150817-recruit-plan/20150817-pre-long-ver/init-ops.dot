@@ -1,4 +1,4 @@
-digraph initflow {
+digraph initops {
 
     rankdir = LR;
     label = "NAOps - Network Alliance Operations"

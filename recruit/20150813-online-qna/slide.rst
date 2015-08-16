@@ -1,7 +1,7 @@
 .. include:: <s5defs.txt>
 .. _GDG Zhuhai: http://blog.zhgdg.org/
 .. _GitCafe: https://gitcafe.com/anqurvanillapy/online-qna
-.. _GitHub: https://github.com/jnuren12/docs/tree/master/recruit/online-qna
+.. _GitHub: https://github.com/jnuren12/docs/tree/master/recruit/20150813-online-qna
 
 ==============
 暨南人网络联盟
