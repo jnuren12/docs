@@ -193,8 +193,8 @@ DevOps?
 
 .. class:: center huge
 
-    | 我们当然需要,
-    | :orange:`自己的` 工作流
+    | 当然没那么高端 :orange:`:)`
+    | 更适应网联的 :orange:`工作流`
 
 <NAOps/>
 ========
@@ -271,8 +271,8 @@ Why?
 
     为什么得 :orange:`网联`?
 
-人家说了,
-=========
+人家说了
+========
 
 .. class:: center huge
 
@@ -353,7 +353,7 @@ A Gap Between
 关于
 ====
 
-`所受影响`
+所受影响
 
 .. class:: incremental
 
@@ -369,3 +369,12 @@ A Gap Between
     * 使用 python-docutils 模块 rst2s5 工具输出幻灯片
     * 使用 Git 本地管理版本
     * 发布至 `GitHub`_ 进行托管, gh-pages  服务渲染网页
+
+LICENSE
+=======
+
+.. class:: incremental big
+
+    * 使用 CC BY-NC-SA 4.0 许可
+    * `署名` `非商用` `相同方式分享`
+    * 是的, 左下角可爱的标志!
