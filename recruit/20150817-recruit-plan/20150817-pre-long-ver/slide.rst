@@ -1,7 +1,8 @@
 .. include:: <s5defs.txt>
 
-.. _gh-pages: http://jnuren12.github.io/docs/20150817-pre-long-ver/
 .. _Anqurvanillapy: http://anqurvanillapy.github.io/
+.. _gh-pages: http://jnuren12.github.io/docs/20150817-pre-long-ver/
+.. _Repos: https://github.com/jnuren12/
 .. _Zoom.Quiet: http://zoomquiet.io/
 .. _GitHub: https://github.com/jnuren12/docs/tree/master/pages/20150817-pre-long-ver
 
@@ -41,7 +42,7 @@ Why not PPT?
 
     * 纯文字编写, `思路` 与 `设计` 并行
     * 渲染简单, 几乎没有 `兼容` 问题
-    * 输出 `网页`, 可以定制 `主题`
+    * 输出 `网页,` `可以定制` `主题`
     * 专注文字, `少即是多!`
 
 暨南人网络联盟
@@ -105,6 +106,230 @@ Now,
 
     :orange:`Alliance`: *mutual benefits*
 
+<crew>
+======
+
+.. image:: img/8bit_logo_ani.gif
+    :scale: 100%
+    :alt: pc
+    :align: center
+
+`林鹏程` `/ 副部长兼产品总监` `/ PC` `/ 14电气工程`
+
+<tags/>
+=======
+
+.. class:: incremental huge
+
+    * 白板 `, 噢不`
+    * Web前端开发者
+    * 极度纯洁的笑容
+
+<crew>
+======
+
+.. image:: img/keroro-mie.jpg
+    :scale: 70%
+    :alt: miemie
+    :align: center
+
+`杨畅` `/ 副部长兼媒宣总监` `/ 咩咩` `/ 14金融工程`
+
+<tags/>
+=======
+
+.. class:: incremental huge
+
+    * Ps, `Ae,` `Pr,` `...`
+    * 秦时明月
+    * 女神属性
+
+<crew>
+======
+
+.. image:: img/duanxin.jpg
+    :scale: 70%
+    :alt: duanxin
+    :align: center
+
+`段欣` `/ 副部长兼开发总监` `/ 星星` `/ 14信息安全`
+
+<tags/>
+=======
+
+.. class:: incremental huge
+
+    * 努力刷技能点的程序媛
+    * 高跟鞋
+
+<crew>
+======
+
+.. image:: img/keroro-shuai.jpeg
+    :scale: 50%
+    :alt: shuaishuai
+    :align: center
+
+`吴书颖` `/ 副部长兼市场总监` `/ 帅帅` `/ 14翻译`
+
+<tags/>
+=======
+
+.. class:: incremental huge
+
+    * 帅
+    * 很帅
+    * 非常帅
+
+<crew>
+======
+
+.. image:: img/guai.JPG
+    :scale: 30%
+    :alt: guaiguai
+    :align: center
+
+`王昊爽` `/ 副部长兼策编总监` `/ 乖乖` `/ 14信息安全`
+
+<tags/>
+=======
+
+.. class:: incremental huge
+
+    * 推文小公举
+    * 网联小枢纽
+    * 非常乖
+
+<crew>
+======
+
+.. image:: img/jiujiu.JPG
+    :scale: 500%
+    :alt: jiujiu
+    :align: center
+
+`乔紫铭` `/ CEO助理` `/ 舅舅` `/ 14金融工程`
+
+<tags/>
+=======
+
+.. class:: incremental huge
+
+    * 头顶红毛
+    * 超细心
+    * 小锁闭
+
+<crew/>
+=======
+
+.. image:: img/avatar.JPG
+    :scale: 60%
+    :alt: anqurvanillapy
+    :align: center
+
+`卢星宇` `/ 正部长兼CEO` `/ 俺去儿` `/ 14软件工程`
+
+<tags/>
+=======
+
+.. class:: incremental
+
+    * 嗯, 程序猿
+    * 玩儿吉他
+    * 洽谈技术合作
+    * 外包项目
+    * 网联知识库
+    * 事件抉择
+
+<body>
+======
+
+.. class:: center huge
+
+    网联 :orange:`关键词`
+
+<meta/>
+=======
+
+.. class:: incremental huge
+
+    * VIS
+    * OSC
+    * KM/TM
+
+VIS?
+====
+
+.. class:: center huge
+
+    | `Virtual Internet Startup`
+    | `虚拟互联网创业公司`
+
+VIS!
+====
+
+.. class:: incremental huge
+
+    * 虚拟商业模式
+    * I/O
+    * 增长价值
+
+OSC?
+====
+
+.. class:: center huge
+
+    | `Open Source Community`
+    | `开源社区`
+
+OSC!
+====
+
+.. class:: incremental huge
+
+    * 交流分享
+    * 商用 || 非商用
+    * 工具链
+
+KM/TM
+=====
+
+.. class:: incremental huge
+
+    * :orange:`K` nowledge
+    * :orange:`T` ime
+
+KM
+==
+
+.. class:: incremental huge
+
+    * Repos_/代码仓库
+    * Wiki/维基
+    * Blog/博客
+
+TM
+==
+
+.. class:: incremental huge
+
+    * 从 `所见即所得` `到` `所想即所得`
+    * 时间管理法
+
+黑客?
+=====
+
+.. class:: center huge
+
+    网联不是一个 :orange:`黑客团队`
+
+Hackers!
+========
+
+.. class:: center huge
+
+    网联是一个 :orange:`Hackers` 团队
+
 <NAOps/>
 ========
 
@@ -117,7 +342,8 @@ Now,
 
 .. class:: incremental huge
 
-    * 4
+    * 3
+    * 5
     * 7
     * 35+
 
@@ -137,7 +363,7 @@ Now,
 
     * 活动策划
     * 资讯收集
-    * 文件编辑
+    * 文案编辑
 
 <市场部/>
 =========
@@ -250,6 +476,31 @@ DevOps?
     :alt: late-ops
     :align: center
 
+本届活动
+========
+
+.. class:: incremental
+
+    * 电脑义修
+    * 解救单身
+    * 暨术宅更新
+    * 暨妹妹粉丝节
+    * 跳蚤市场
+    * 技术沙龙
+
+技术沙龙
+========
+
+.. class:: center huge
+
+    :orange:`NACO`
+
+.. class:: incremental big
+
+    * :orange:`N` etwork
+    * :orange:`A` lliance
+    * :orange:`CO` nference
+
 当然
 ====
 
@@ -329,8 +580,39 @@ A Gap Between
     * 缺乏自制
     * 缺乏信心
 
-不妨
+而且
 ====
+
+.. class:: center huge
+
+    :orange:`Web开发` 关键词
+
+炒鸡块
+======
+
+.. class:: incremental huge
+
+    * Grunt
+    * Gulp/Browserify
+    * Webpack
+    * ES6...?
+
+仅仅...
+=======
+
+.. class:: center huge
+
+    | 花了 :orange:`3` 年
+
+所以,
+=====
+
+.. class:: center huge
+
+    `人生苦短,` `开心就好`
+
+但不妨
+======
 
 是的, :orange:`网联`!
 
@@ -341,8 +623,8 @@ A Gap Between
     * 新鲜的分享
     * 共同的进步
 
-最后
-====
+<body/>
+=======
 
 .. class:: incremental huge
 
@@ -358,7 +640,8 @@ A Gap Between
 .. class:: incremental
 
     * CPyUG 创始人 Zoom.Quiet_ 靠谱/Kaopulity 理念
-    * 蟒营/PythoniCamp 工程的感化
+    * 蟒营/PythoniCamp 工程
+    * ruanyf 眼中的前端发展趋势
 
 使用工具
 ========
@@ -368,13 +651,4 @@ A Gap Between
     * 遵循 s5 网页幻灯片标准
     * 使用 python-docutils 模块 rst2s5 工具输出幻灯片
     * 使用 Git 本地管理版本
-    * 发布至 `GitHub`_ 进行托管, gh-pages  服务渲染网页
-
-LICENSE
-=======
-
-.. class:: incremental big
-
-    * 使用 CC BY-NC-SA 4.0 许可
-    * `署名` `非商用` `相同方式分享`
-    * 是的, 左下角可爱的标志!
+    * 发布至 `GitHub`_ 进行托管, gh-pages 服务渲染网页
