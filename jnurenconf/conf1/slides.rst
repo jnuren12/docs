@@ -1,6 +1,6 @@
 .. include:: <s5defs.txt>
-.. _hello-world: https://github.com/anqurvanillapy/diypy3/blob/master/jnurenconf/conf1/hello.c
-.. _smtplib: https://github.com/anqurvanillapy/diypy3/blob/master/jnurenconf/conf1/send_email.py
+.. _hello-world: https://github.com/jnuren12/docs/blob/master/jnurenconf/conf1/hello.c
+.. _smtplib: https://github.com/jnuren12/docs/blob/master/jnurenconf/conf1/send_email.py
 
 ==============
 网联吹水会 no1
